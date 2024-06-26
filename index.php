@@ -1,8 +1,8 @@
-<?php //get_header(); ?>
+ 
+<?php
+// get_header();
+do_action('mo_hello_world');
+// do_action('mo_print_1to_100_step_5');
+do_action('mo_odd_even_as',9);
 
-<div id="main-content">
-    <h1>Welcome to WPRealizer Starter Theme</h1>
-    <p>This is a minimal WordPress theme setup.</p>
-</div>
-<?php do_action('wprealizer_after_main_content'); ?>
-<?php //get_footer(); ?>
+// get_footer();

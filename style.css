@@ -1,11 +1,23 @@
 /*
-Theme Name: WPRealizer Starter Theme
-Theme URI: https://yourthemeurl.com
-Description: A minimal starter theme for WordPress.
-Author: Your Name
-Author URI: https://yourwebsite.com
-Version: 1.0
+Theme Name: wp_morad
+Theme URI: http://unlocklive.com
+Author: Morad Patwary
+Author URI: http://unlocklive.com
+Description: Description
+Version: 1.0.0
+Tested up to: 8.1
+Requires PHP: 8.1.1
 License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wprealizer-starter
+License URI: LICENSE
+Text Domain: wp_morad
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+wp_morad is based on Underscores https://unlocklive.com, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
